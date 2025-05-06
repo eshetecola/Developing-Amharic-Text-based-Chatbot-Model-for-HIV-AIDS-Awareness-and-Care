@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f3de3163-2396-4ccb-becb-ae60c00a35d1)
 Table of Contents
 
       Step-by-Step Guide to Load JSON Files Using Pandas
